@@ -1,0 +1,136 @@
+# Community Contracts v2.1.2
+
+Turn Stardew Valley into a thriving cooperative economy by partnering with townspeople through contracts, automation, and on‑demand services. Version 2.1.2 is the most polished, player‑friendly release yet — removing dialogue interruptions, improving navigation, expanding services, and making it easier than ever to hire the right NPC for the job.
+
+## Getting Started
+
+    Install SMAPI if you haven’t already.
+    Download and install Community Contracts.
+    Launch Stardew Valley and press V to open the Community Contracts Toolbar.
+    You can change the hotkey anytime from the Settings Menu on the toolbar.
+    All features, services, and configuration options are accessible directly from the toolbar.
+
+## What’s New in v2.1.2
+### Dialogue Interruptions Removed
+
+All services are now accessed exclusively through the toolbar, meaning:
+
+    No more clicking on NPCs to request services
+    No more pop‑up dialogues interrupting gameplay
+    No more breaking conversations with villagers
+
+This makes the entire system smoother, faster, and far more immersive.
+### New Settings Menu + Improved Toolbar Navigation
+
+The toolbar has been redesigned for clarity and speed:
+
+    A dedicated Settings Menu is now accessible directly from the toolbar
+    Hotkeys, service options, and mod preferences can be adjusted instantly
+    Navigation between menus is cleaner and more intuitive
+
+### All NPCs Now Appear in the Character Menu
+
+Every villager capable of gaining friendship — including modded NPCs — now appears in the Character Menu and can be hired for services.
+The Character Menu now displays:
+
+    NPC Level
+    Friendship Points
+    Sorted automatically from highest → lowest friendship
+
+This makes it incredibly easy to choose the best worker for each job.
+### Animal Product Processing Service
+
+Hire a character to process:
+
+    Eggs → Mayo
+    Milk → Cheese
+    Wool → Cloth
+    Truffles → Oil
+
+Features:
+
+    Quality matches the raw goods
+    Pulls items from your backpack and autograbbers
+    Works across all farm buildings
+
+### Juicing Service
+
+Hire a character to turn:
+
+    Fruit
+    Vegetables
+    Select forageables
+
+…into juice.
+Details:
+
+    Juice quality matches raw goods
+    Output quantity scales with item value
+    Always profitable when sold
+    Uses items from your backpack
+
+### Direct Delivery to the Shipping Bin
+
+For all raw‑goods processing services, you can now choose:
+
+    Deliver finished products to your Delivery Chest, or
+    Deliver directly to the Shipping Bin for next‑day profit
+
+### Multiple Workers for Large Jobs
+
+Some services now support multiple NPCs working simultaneously, dramatically speeding up large tasks on big farms.
+This is especially useful for:
+
+    Large harvests
+    Big processing batches
+    High‑volume automation tasks
+
+### Expanded Language Support (Now 11 Languages)
+Community Contracts now supports all of the following languages:
+
+    English
+    French
+    Italian
+    German
+    Spanish
+    Portuguese‑BR
+    Russian
+    Japanese
+    Korean
+    Turkish (new in v2.1.2)
+    Hungarian (new in v2.1.2)
+
+This brings full support for all official Stardew Valley languages.
+
+## Existing Features from v2.1.1 (Still Included)
+
+### Farming Services
+
+    Planting
+    Tilling
+    Watering
+    Garden Pot placement
+    Bee House placement
+    Honey collection + optional mead processing
+    Animal care
+    Seed making
+
+### Other Services
+
+    Sashimi making
+    Ore processing
+    Tapper installation
+
+    Reliable crop harvesting
+    Smarter crab pot placement, baiting, and harvesting
+    Adjustable rectangular service areas
+
+### Core Systems
+
+    Delivery chest with customizable colors and labels
+    Contract growth tied to friendship and skill
+    Specialist and non‑specialist NPC roles
+    Optional processor time reduction
+
+## Summary
+Community Contracts v2.1.2 is the most refined version yet — eliminating dialogue interruptions, improving navigation, expanding automation, and making NPC hiring smarter and more intuitive. Whether you’re running a small homestead or a massive industrial farm, this update makes the entire system smoother, faster, and more immersive.
